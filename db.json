@@ -2,7 +2,10 @@
   "beverages": [
     {
       "id": 1,
-      "title": "Post 1"
+      "name": "Great Western Radler",
+      "brand": 1,
+      "type": 7,
+      "temperature":3.0
     },
     {
       "id": 2,
