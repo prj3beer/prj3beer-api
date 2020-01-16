@@ -9,23 +9,27 @@
     },
     {
       "id": 2,
-      "title": "Post 2"
+      "name": "Great Western Pilsner",
+      "brand": 1,
+      "type": 4,
+      "temperature":13.0
     },
     {
       "id": 3,
-      "title": "Post 3"
+      "name": "Original 16 Copper Ale",
+      "brand": 1,
+      "type": 5,
+      "temperature":2.0
     }
   ],
   "brands": [
     {
       "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "name": "Great Western Brewing Company",
     },
     {
       "id": 2,
-      "body": "some comment",
-      "postId": 1
+      "name": "Churchill Brewing Company",
     }
   ],
   "profile": {
