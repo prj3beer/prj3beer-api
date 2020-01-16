@@ -25,11 +25,11 @@
   "brands": [
     {
       "id": 1,
-      "name": "Great Western Brewing Company",
+      "name": "Great Western Brewing Company"
     },
     {
       "id": 2,
-      "name": "Churchill Brewing Company",
+      "name": "Churchill Brewing Company"
     }
   ],
   "profile": {
