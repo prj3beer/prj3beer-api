@@ -84,5 +84,14 @@
       "id": 3,
       "name": "Rebellion Brewing Company"
     }
+  ],
+  "bevs": [
+    {
+      "id": 0,
+      "name": "Guiness Harp",
+      "brand": "Guiness",
+      "type": 7,
+      "temperature": 15.0
+    }
   ]
 }
