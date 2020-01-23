@@ -57,6 +57,13 @@
       "temperature":3.0 
     },
     {
+      "id": 99,
+      "name": "Rebellion Pear Beer",
+      "brand": 3,
+      "type": 3,
+      "temperature":3.0 
+    },
+    {
       "id": 8,
       "name": "ThisNameIsWayTooLongAndIKnowBecauseIJustStartedTypingRandomStuffButIMadeSureToTypeItInPascalCaseXOXOLOLOLOL",
       "brand": 2,
