@@ -78,6 +78,96 @@
       "temperature":3.0
     }
   ],
+  "beverageswithimages": [
+    {
+      "id": 1,
+      "name": "Great Western Radler",
+      "brand": 1,
+      "type": 7,
+      "temperature":3.0,
+      "image": "https://drive.google.com/open?id=1QWkvVU0E_gQZ0twIKJb5uVLPxEnNzAE2"
+    },
+    {
+      "id": 2,
+      "name": "Great Western Pilsner",
+      "brand": 1,
+      "type": 4,
+      "temperature":13.0,
+      "image": "https://drive.google.com/open?id=1FFYgzGRseSCRS2XVbLeNbuUc5P_K676t"
+    },
+    {
+      "id": 3,
+      "name": "Original 16 Copper Ale",
+      "brand": 1,
+      "type": 5,
+      "temperature":2.0,
+      "image": "https://drive.google.com/open?id=1rWnE-CKaZZz50SyUuHE58e_BU6q8eygs"
+    },
+    {
+      "id": 4,
+      "name": "Original 16 Pale Ale",
+      "brand": 201,
+      "type": 5,
+      "temperature":2.0,
+      "image": ""
+    },
+    {
+      "id": 5,
+      "name": "Churchill Blonde Lager",
+      "brand": 2,
+      "type": 4,
+      "temperature":3.0,
+      "image": "https://drive.google.com/open?id=1DDCwy_8aaQvMh8pThbRpY-pjHFJLUtmc"
+    },
+    {
+      "id": 6,
+      "name": "Rebellion Zilla IPA",
+      "brand": 3,
+      "type": 3,
+      "temperature":4.0,
+      "image": "https://drive.google.com/open?id=1cGiYnd_41NeYGGDGRX8NAMarRPOHMbSJ"
+    },
+    {
+      "id": 7,
+      "name": "Rebellion Amber Ale",
+      "brand": 3,
+      "type": 1,
+      "temperature":53.0,
+      "image": ""
+    },
+    {
+      "id": 0,
+      "name": "Rebellion Lentil Beer",
+      "brand": 3,
+      "type": 10,
+      "temperature":3.0,
+      "image": ""
+    },
+    {
+      "id": 99,
+      "name": "Rebellion Pear Beer",
+      "brand": 3,
+      "type": 3,
+      "temperature":3.0 
+      "image": ""
+    },
+    {
+      "id": 8,
+      "name": "ThisNameIsWayTooLongAndIKnowBecauseIJustStartedTypingRandomStuffButIMadeSureToTypeItInPascalCaseXOXOLOLOLOL",
+      "brand": 2,
+      "type": 8,
+      "temperature":-40.0,
+      "image": ""
+    },
+    {
+      "id": 9,
+      "name": " ",
+      "brand": 0,
+      "type": 6,
+      "temperature":3.0,
+      "image": ""
+    }
+  ],
   "brands": [
     {
       "id": 1,
