@@ -85,7 +85,7 @@
       "brand": 1,
       "type": 7,
       "temperature":3.0,
-      "image": "https://www.liquormarts.ca/sites/mlcc_public_website/files/product/25748_a00ecaa8d9702dd4f61783e67531291c.png"
+      "image": "https://i.postimg.cc/G9CBp2Rr/gwb-radler.png"
     },
     {
       "id": 2,
@@ -93,7 +93,7 @@
       "brand": 1,
       "type": 4,
       "temperature":13.0,
-      "image": "https://cdn.justwineapp.com/assets/beer/bottle/great-western-brewing-company-great-western-pilsner_1539120051.png"
+      "image": "https://i.postimg.cc/y3szCtw4/gwb-pilsner.png"
     },
     {
       "id": 3,
@@ -101,7 +101,7 @@
       "brand": 1,
       "type": 5,
       "temperature":2.0,
-      "image": "https://cdn.justwineapp.com/assets/beer/bottle/great-western-brewing-co-original-16-canadian-copper-ale_1479335313.png"
+      "image": "https://i.postimg.cc/WFRvXh84/gwb-copper.png"
     },
     {
       "id": 4,
@@ -117,7 +117,7 @@
       "brand": 2,
       "type": 4,
       "temperature":3.0,
-      "image": "https://churchillbrewing.com/wp-content/uploads/2019/09/sliderCan3.png"
+      "image": "https://i.postimg.cc/v1xyrWWj/cbc-blonde.png"
     },
     {
       "id": 6,
@@ -125,7 +125,7 @@
       "brand": 3,
       "type": 3,
       "temperature":4.0,
-      "image": "https://untappd.akamaized.net/site/beer_logos_hd/beer-3166675_68b90_hd.jpeg"
+      "image": "https://i.postimg.cc/5QgW4pVH/zilla-ipa.png"
     },
     {
       "id": 7,
